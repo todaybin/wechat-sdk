@@ -1,6 +1,6 @@
 {
   "type": "library",
-  "name": "todaybin/wechat-sdk",
+  "name": "wechat/wechat-sdk",
   "homepage": "https://github.com/todaybin",
   "description": "WeChat platform and WeChat payment development tools",
   "license": "MIT",
